@@ -3,18 +3,27 @@
 </div>
 
 <div id="badges" align="center">
+<!--   <a href="mailto: deep.ksarkar1211@gmail.com">
+    <img src="https://img.shields.io/badge/email-gray?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Badge"/>
+  </a> -->
+  <a href="mailto: deep.ksarkar1211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Phone Badge"/>
+  </a>
+  <a href="tel: 8420057039">
+    <img src="https://img.shields.io/badge/Phone-red?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Phone Badge"/>
+  </a>
   <a href="https://linkedin.con/in/deep-ksarkar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://youtube.com">
+<!--   <a href="https://youtube.com">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="htttps://twitter.com">
+  </a> -->
+<!--   <a href="htttps://twitter.com">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=c0dE3P&style=flat-square&color=blue" align="center" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=c0dE3P&style=flat-square&color=blue" align="center" alt=""/>-->
 
 <h1>
   Hi there
