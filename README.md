@@ -71,7 +71,7 @@ I am a VLSI Verification Engineer <img src="https://media.giphy.com/media/WUlplc
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=c0dE3P&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=c0dE3P&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=c0dE3P&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dE3P&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
