@@ -43,17 +43,32 @@
 
 I am a VLSI Verification Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 🔭 I’m currently working on ... -->
+🌱 I’m currently learning titbits of VLSI design & verification using Verilog, SystemVerilog and UVM
+<!-- - 👯 I’m looking to collaborate on ...
+🤝 I’m looking for help with ... -->
+💬 Ask me about anything 😃
+<!-- 📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact: ... -->
 
 # 💻 VLSI Domain Skills:
+![Verilog](https://img.shields.io/badge/Verilog-00629B?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/systemverilog-1D0A63?style=for-the-badge&logoColor=white)
+![UVM](https://img.shields.io/badge/universal_verification_methodology-212326?style=for-the-badge&logoColor=white)
 
+![AHB](https://img.shields.io/badge/ahb-0091BD?style=for-the-badge&logoColor=white)
+![APB](https://img.shields.io/badge/apb-0091BD?style=for-the-badge&logoColor=white)
+![AXI](https://img.shields.io/badge/axi-0091BD?style=for-the-badge&logoColor=white)
+![SPI](https://img.shields.io/badge/spi-E1140A?style=for-the-badge&logoColor=white)
+![I2C](https://img.shields.io/badge/i2c-739833?style=for-the-badge&logoColor=white)
+![UART](https://img.shields.io/badge/uart-0091BD?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Mentor Graphics](https://img.shields.io/badge/mentor_graphics_(questasim)-009999?style=for-the-badge&logoColor=white)
+![Perl](https://img.shields.io/badge/perl-39457E?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=c0dE3P&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
