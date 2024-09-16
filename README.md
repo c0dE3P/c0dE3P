@@ -37,7 +37,7 @@ I am a VLSI Verification Engineer <img src="https://media.giphy.com/media/WUlplc
 🌱 I’m currently learning titbits of latest advancements in VLSI design & verification using Verilog, SystemVerilog and UVM <br>
 👯 I’m looking to collaborate on VLSI design & verification using Verilog, SystemVerilog and UVM <br>
 💬 Ask me about anything tech :) <br>
-📫 Reach out to me via <a href="mailto:deepksarkar11@gmail.com">email</a> or <a href="https://linkedin.com/in/deep-ksarkar">LinkedIn profile</a>
+📫 Reach out to me via <a href="https://linkedin.com/in/deep-ksarkar">LinkedIn profile</a>
 
 <!-- This is the format of the above part
 🔭 I’m currently working on ...
