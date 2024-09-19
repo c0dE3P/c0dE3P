@@ -49,7 +49,7 @@ I am a VLSI Verification Engineer <img src="https://media.giphy.com/media/WUlplc
 😄 Pronouns: ...
 ⚡ Fun fact: ... -->
 
-# 💻 VLSI Domain Skills:
+# 💻 VLSI Domain Skills
 ![Verilog](https://img.shields.io/badge/Verilog-00629B?style=for-the-badge&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/systemverilog-1D0A63?style=for-the-badge&logoColor=white)
 ![UVM](https://img.shields.io/badge/universal_verification_methodology-212326?style=for-the-badge&logoColor=white)
@@ -67,18 +67,18 @@ I am a VLSI Verification Engineer <img src="https://media.giphy.com/media/WUlplc
 ![Perl](https://img.shields.io/badge/perl-39457E?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=c0dE3P&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=c0dE3P&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=c0dE3P&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=c0dE3P&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=c0dE3P&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-### ✍️ Random Dev Quote
+# ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=c0dE3P&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
