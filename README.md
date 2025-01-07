@@ -56,10 +56,10 @@ I am a VLSI Verification Engineer <img src="https://media.giphy.com/media/WUlplc
 
 ![AHB](https://img.shields.io/badge/ahb-0091BD?style=for-the-badge&logoColor=white)
 ![APB](https://img.shields.io/badge/apb-0091BD?style=for-the-badge&logoColor=white)
-<!--![AXI](https://img.shields.io/badge/axi-0091BD?style=for-the-badge&logoColor=white)
+![AXI](https://img.shields.io/badge/axi-0091BD?style=for-the-badge&logoColor=white)
 ![SPI](https://img.shields.io/badge/spi-E1140A?style=for-the-badge&logoColor=white)
 ![I2C](https://img.shields.io/badge/i2c-739833?style=for-the-badge&logoColor=white)
-![UART](https://img.shields.io/badge/uart-0091BD?style=for-the-badge&logoColor=white)-->
+![UART](https://img.shields.io/badge/uart-0091BD?style=for-the-badge&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
